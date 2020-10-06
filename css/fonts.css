@@ -1,0 +1,36 @@
+@font-face{
+    font-family: "proxima_nova";
+    font-style: normal;
+    font-weight: 400;
+    src: local("proxima_nova");
+    src: url("../fonts/proxima_nova/fonts/proxima_nova_condensed_regular.woff");
+}
+@font-face{
+    font-family: "Futura PT - Heavy";
+    font-style: heavy;
+    font-weight: 400;
+    src: local("Futura PT - Heavy");
+    src: url("../fonts/FuturaPTHeavy.otf");
+
+}
+@font-face{
+    font-family: "Georgia_italic";
+    font-style: italic;
+    font-weight: 300;
+    src: local("Georgia_italic");
+    src: url("../fonts/georgia/georgia\ italic.ttf");
+}
+@font-face{
+    font-family: "Playfair Display";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Playfair Display");
+    src: url("../fonts/Playfair_Display/static/PlayfairDisplay-Regular.ttf");
+}
+@font-face{
+    font-family: "Georgia";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Georgia");
+    src: url("../fonts/georgia/Georgia\ Regular\ font.ttf");
+}
